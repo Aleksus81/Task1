@@ -23,7 +23,7 @@
     <label for="exampleFormControlInput1">Author</label>
    <select name="author_id">
      
-     цикл
+     цикл...
      
      <option value="1">Jack London</option>
    </select>
